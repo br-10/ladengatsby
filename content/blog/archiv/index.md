@@ -7,8 +7,7 @@ published: true
 banner: './banner.jpg'
 ---
 
-Wir freuen uns, Euch wieder ein tolles Programm anbieten zu können.   
-Wir empfehlen rechtzeitige Reservierung.  
-Ein nicht kleiner Teil der Vorstellungen sind schon ausverkauft.
+# Im Moment denken wir nur an die Zukunft
 
-## Ja Neni
+Und die beginnt im Mai mit einer Retrospektive  auf das Theaterfestival 'An den Ufern der Poesie'    
+siehe: [Termine](/termine)
